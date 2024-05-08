@@ -1,0 +1,54 @@
+Programming language :- Programming language is a set instruction which is used create a specific task.
+ex : c,cpp , java
+main(){}
+
+Scrippting language :- scripting language is a subset programming language.
+ex: html , css , javaScript , python 
+single code
+
+
+Statically typed : when you define the variable you required data type .
+
+
+Dynamically types : not required data type 
+
+
+JavaScaript is run : 
+1. Browser (client side):- When we open any web page in browser it firstly load HTML file and then JavaScript file.
+
+
+javaScript :-
+
+Client side : (Browser)
+
+use :- to manipulate the dom (document object model) of the web page.
+
+
+There are three ways to define js.
+1. internal js 
+2. inline js 
+3. external js [.js]
+
+
+There are three of keyword.
+1. var --> gobally declared 
+2. let --> locally declared , block scope 
+3. const --> locally declared or constant  or block scope 
+
+
+
+
+
+History :
+Java Script is devloped by brenden eich by 1995. for netscap navigator browser.
+javaScript engine :
+- spidermonkey -> firefox
+- chakra -> internet exporer
+- v8 -> google chrome  -- node
+- javaScript core : safari 
+- rhino : java 
+
+
+
+
+
